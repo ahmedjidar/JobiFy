@@ -33,13 +33,12 @@
 7. Submit the application and wait for further communication from the employer.
 
 # Contributing
-Contributions to **JobiFy** are welcome! If you'd like to contribute, please follow these steps:
-
-    Fork the repository.
-    Create a new branch: git checkout -b feature/your-feature
-    Make your changes and commit them: git commit -m 'Add some feature'
-    Push the changes to your forked repository: git push origin feature/your-feature
-    Open a pull request on the original repository.
+- Contributions to **JobiFy** are welcome! If you'd like to contribute, please follow these steps:
+    1. Fork the repository.
+    2. Create a new branch: git checkout -b feature/your-feature
+    3. Make your changes and commit them: git commit -m 'Add some feature'
+    4. Push the changes to your forked repository: git push origin feature/your-feature
+    5. Open a pull request on the original repository.
 
 # License
 This project was licenced under the [MIT License](https://mit-license.org/)
@@ -47,10 +46,10 @@ This project was licenced under the [MIT License](https://mit-license.org/)
 # Contact
 If you have any questions, suggestions, or feedback, please feel free to contact us:
 
-JIDAR Ahmed Amin: [justup1080@gmail.com](mailto:justup1080@gmail.com)
+> JIDAR Ahmed Amin: [justup1080@gmail.com](mailto:justup1080@gmail.com)
 
-ANKRI Mohamed Khalil: [khalilankri100@gmail.com](mailto:khalilankri100@gmail.com)
+> ANKRI Mohamed Khalil: [khalilankri100@gmail.com](mailto:khalilankri100@gmail.com)
 
-KHARTOUCH Mouad: [mkhartouch.respo@gmail.com](mailto:mkhartouch.respo@gmail.com)
+> KHARTOUCH Mouad: [mkhartouch.respo@gmail.com](mailto:mkhartouch.respo@gmail.com)
 
 We are open to collaboration and would love to hear from you!
