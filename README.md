@@ -2,7 +2,7 @@
    **JobiFy** is a web application that helps users find job offers and submit job applications. It provides an easy-to-use interface for both job seekers and employers, making the job search process more efficient.
 
 # Features
-    - Job Offer Listings : Users can browse through a list of job offers, including information such as job title, company name, location, and job description.
+- Job Offer Listings : Users can browse through a list of job offers, including information such as job title, company name, location, and job description.
 
     - Job Search: Users can search for job offers based on keywords, location, and other filters to find relevant opportunities.
 
