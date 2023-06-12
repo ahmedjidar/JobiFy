@@ -19,8 +19,8 @@
 - JSON: Lightweight data interchange format for sending and receiving data between the client and server.
 
 # Installation
-1- Clone the repository: git clone [clowny](https://github.com/ahmedjidar/JobiFy.git)
-2. Navigate to the project directory: `cd JobiFy`
+1. Clone the repository: git clone [clowny](https://github.com/ahmedjidar/JobiFy.git)
+2. Navigate to the project directory: `cd JobiFy` 
 3. Start a local development server (e.g., using XAMPP, WAMP, or PHP's built-in server): `php -S localhost:8000`
 
 # Usage
@@ -35,9 +35,9 @@
 # Contributing
 - Contributions to **JobiFy** are welcome! If you'd like to contribute, please follow these steps:
     1. Fork the repository.
-    2. Create a new branch: git checkout -b feature/your-feature
-    3. Make your changes and commit them: git commit -m 'Add some feature'
-    4. Push the changes to your forked repository: git push origin feature/your-feature
+    2. Create a new branch: `git checkout -b feature/your-feature`
+    3. Make your changes and commit them: `git commit -m 'Add some feature'`
+    4. Push the changes to your forked repository: `git push origin feature/your-feature`
     5. Open a pull request on the original repository.
 
 # License
