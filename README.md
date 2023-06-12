@@ -46,9 +46,8 @@
 
 # Contact
     If you have any questions, suggestions, or feedback, please feel free to contact us:
-
-    JIDAR Ahmed Amin: <a href="mailto:justup1080@gmail.com">Contact me</a>
-    ANKRI Mohamed Khalil: [khalilankri100@gmail.com](mailto:khalilankri100@gmail.com)
-    KHARTOUCH Mouad: [mkhartouch.respo@gmail.com](mailto:mkhartouch.respo@gmail.com)
+JIDAR Ahmed Amin: [justup1080@gmail.com](mailto:justup1080@gmail.com)
+ANKRI Mohamed Khalil: [khalilankri100@gmail.com](mailto:khalilankri100@gmail.com)
+KHARTOUCH Mouad: [mkhartouch.respo@gmail.com](mailto:mkhartouch.respo@gmail.com)
 
     We are open to collaboration and would love to hear from you!
