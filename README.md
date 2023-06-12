@@ -4,24 +4,24 @@
 # Features
 - Job Offer Listings : Users can browse through a list of job offers, including information such as job title, company name, location, and job description.
 
-    - Job Search: Users can search for job offers based on keywords, location, and other filters to find relevant opportunities.
+- Job Search: Users can search for job offers based on keywords, location, and other filters to find relevant opportunities.
 
-    - Job Application: Users can apply for a job by submitting an application form, including their personal details, resume, and cover letter.
+- Job Application: Users can apply for a job by submitting an application form, including their personal details, resume, and cover letter.
 
-    - User Authentication: The application supports user registration and login functionality to ensure secure access to personal information and job applications.
+- User Authentication: The application supports user registration and login functionality to ensure secure access to personal information and job applications.
 
 # Technologies Used
-    - HTML: Markup language for creating the structure and content of web pages.
-    - CSS: Style sheet language for designing the visual presentation of web pages.
-    - PHP: Server-side scripting language for handling server-side logic and interacting with databases.
-    - JavaScript: Programming language for adding interactivity and dynamic features to web pages.
-    - AJAX: Asynchronous JavaScript and XML for making asynchronous HTTP requests and updating parts of a web page without reloading the entire page.
-    - JSON: Lightweight data interchange format for sending and receiving data between the client and server.
+- HTML: Markup language for creating the structure and content of web pages.
+- CSS: Style sheet language for designing the visual presentation of web pages.
+- PHP: Server-side scripting language for handling server-side logic and interacting with databases.
+- JavaScript: Programming language for adding interactivity and dynamic features to web pages.
+- AJAX: Asynchronous JavaScript and XML for making asynchronous HTTP requests and updating parts of a web page without reloading the entire page.
+- JSON: Lightweight data interchange format for sending and receiving data between the client and server.
 
 # Installation
-    1. Clone the repository: git clone [clowny](https://github.com/ahmedjidar/JobiFy.git)
-    2. Navigate to the project directory: `cd JobiFy`
-    3. Start a local development server (e.g., using XAMPP, WAMP, or PHP's built-in server): `php -S localhost:8000`
+1- Clone the repository: git clone [clowny](https://github.com/ahmedjidar/JobiFy.git)
+2. Navigate to the project directory: `cd JobiFy`
+3. Start a local development server (e.g., using XAMPP, WAMP, or PHP's built-in server): `php -S localhost:8000`
 
 # Usage
 1. Open your web browser and visit (http://localhost:8000) (or the URL where your local server is running).
