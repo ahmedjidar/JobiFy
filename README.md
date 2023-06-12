@@ -24,16 +24,16 @@
     3. Start a local development server (e.g., using XAMPP, WAMP, or PHP's built-in server): `php -S localhost:8000`
 
 # Usage
-    1. Open your web browser and visit (http://localhost:8000) (or the URL where your local server is running).
-    2. Register a new account or log in if you already have one.
-    3. Explore the job offers listed on the platform.
-    4. Use the **search functionality** to find specific job opportunities.
-    5. Click on a job offer to view more details and apply.
-    6. Fill out the application form, upload your resume and cover letter.
-    7. Submit the application and wait for further communication from the employer.
+1. Open your web browser and visit (http://localhost:8000) (or the URL where your local server is running).
+2. Register a new account or log in if you already have one.
+3. Explore the job offers listed on the platform.
+4. Use the **search functionality** to find specific job opportunities.
+5. Click on a job offer to view more details and apply.
+6. Fill out the application form, upload your resume and cover letter.
+7. Submit the application and wait for further communication from the employer.
 
 # Contributing
-   Contributions to **JobiFy** are welcome! If you'd like to contribute, please follow these steps:
+Contributions to **JobiFy** are welcome! If you'd like to contribute, please follow these steps:
 
     Fork the repository.
     Create a new branch: git checkout -b feature/your-feature
@@ -42,12 +42,15 @@
     Open a pull request on the original repository.
 
 # License
-    This project was licenced under the [MIT License](https://mit-license.org/)
+This project was licenced under the [MIT License](https://mit-license.org/)
 
 # Contact
-    If you have any questions, suggestions, or feedback, please feel free to contact us:
+If you have any questions, suggestions, or feedback, please feel free to contact us:
+
 JIDAR Ahmed Amin: [justup1080@gmail.com](mailto:justup1080@gmail.com)
+
 ANKRI Mohamed Khalil: [khalilankri100@gmail.com](mailto:khalilankri100@gmail.com)
+
 KHARTOUCH Mouad: [mkhartouch.respo@gmail.com](mailto:mkhartouch.respo@gmail.com)
 
-    We are open to collaboration and would love to hear from you!
+We are open to collaboration and would love to hear from you!
